@@ -1,6 +1,6 @@
 # Youssef Meddeb Hamrouni
 
-16-year-old self-taught software developer and competitive programmer from Tunisia, prepping for the **Tunisian IOI 2027 team**.
+16-year-old self-taught software developer and competitive programmer from Tunisia.
 
 I build full products solo — auth, backend, deploy, all of it — and I'm currently deep in competitive programming, working my way up from 800-rated Codeforces problems toward IOI-level algorithms.
 
