@@ -5,7 +5,7 @@
 I build full products solo — auth, backend, deploy, all of it — and I'm currently deep in competitive programming, working my way up from 800-rated Codeforces problems toward IOI-level algorithms.
 
 - 🇹🇳 Based in Tunisia
-- 🏆 Codeforces: [`shlum_`](https://codeforces.com/profile/shlum_) — rating 445
+- 🌎 building web , app products and useful tools
 - 🎯 Currently: solving CP problems daily + building web products
 - 📫 youssefmeddebhamrouni@gmail.com
 
