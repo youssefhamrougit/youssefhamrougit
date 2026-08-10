@@ -17,7 +17,7 @@ I build full products solo — auth, backend, deploy, all of it — and I'm curr
 ## What I'm building
 
 - **pocketIDE** — mobile-first browser IDE, actively in development
-- **nsfw-web-blocker** — content filtering tool, shipped
+- **Trivia1v1** — online 1v1 webapp game , shipped
 - **siteforge** — AI-powered website generator (Claude API)
 - **bizhunt** — lead generation tool
 - **roast-git** — AI GitHub profile roaster
