@@ -21,10 +21,7 @@ I build full products solo — auth, backend, deploy, all of it — and I'm curr
 - **siteforge** — AI-powered website generator (Claude API)
 - **bizhunt** — lead generation tool
 - **roast-git** — AI GitHub profile roaster
-
-## Competitive programming
-
-Tracking every solve in [`cp-journey`](https://github.com/youssefhamrougit/cp-journey) — problem notes, approach writeups, and rating progress as I climb toward IOI prep.
+rating progress as I climb toward IOI prep.
 
 ---
 
