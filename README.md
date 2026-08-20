@@ -1,6 +1,6 @@
 # Youssef  Hamrouni
 
-16 year old self taught software developer and intermediate competitive programmer from Tunisia.
+16 year old self taught software developer from Tunisia.
 
 I build full products solo — auth, frontend, backend, deploy, all of it — and I'm currently diving deeper in competitive programming.
 
