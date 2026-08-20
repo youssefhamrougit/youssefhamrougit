@@ -2,14 +2,11 @@
 
 16-year-old self taught software developer and intermediate competitive programmer from Tunisia.
 
-I build full products solo — auth, backend, deploy, all of it — and I'm currently deep in competitive programming, working my way up from 800-rated Codeforces problems toward IOI-level algorithms.
-
-- 🇹🇳 Based in Tunisia
-- 🌎 building web , app products and useful tools
-- 🎯 Currently: solving CP problems daily + building web products
-- 📫 youssefmeddebhamrouni@gmail.com
+I build full products solo — auth, frontend, backend, deploy, all of it — and I'm currently diving deeper in competitive programming.
 
 ## Stack
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 
 ## What I'm building
